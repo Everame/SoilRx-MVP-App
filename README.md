@@ -1,3 +1,7 @@
+# SoilRX-MVP-App
+
+Final MVP project is created when i studied in Academy Abdrashitova
+
 # Архитектура проекта
 
 Для разработки функционала следует придерживаться архитектуре [Feature-Sliced Design](https://feature-sliced.design/)
