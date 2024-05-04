@@ -1,6 +1,7 @@
 # SoilRX-MVP-App
 
 Final MVP project is created when i studied in Academy Abdrashitova
+Link on the site: ![SoilRx]([.gitlab/static/image.png](https://soilrx.redcat.one/)) 
 
 # Архитектура проекта
 
